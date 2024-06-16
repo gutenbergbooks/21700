@@ -2776,14 +2776,14 @@ When patients, neither plagued with friends nor wife,
 Because they still can hope, nor shines the knife
     Nor shears of Atropos before their visions:
 Despair of all recovery spoils longevity,
-And makes men miseries miseries of alarming brevity.
+And makes men’s miseries of alarming brevity.
 
 ’Tis said that persons living on annuities
     Are longer lived than others,—God knows why,
 Unless to plague the grantors,—yet so true it is,
     That some, I really think, do never die;
 Of any creditors the worst a Jew it is,
-    And that ’s their mode of furnishing supply:
+    And that’s their mode of furnishing supply:
 In my young days they lent me cash that way,
 Which I found very troublesome to pay.
 
@@ -3210,7 +3210,7 @@ And wish’d it death in which he had reposed;
 And slowly by his swimming eyes was seen
 A lovely female face of seventeen.
 
-’Twas bending dose o’er his, and the small mouth
+’Twas bending close o’er his, and the small mouth
     Seem’d almost prying into his for breath;
 And chafing him, the soft warm hand of youth
     Recall’d his answering spirits back from death;
@@ -3604,7 +3604,7 @@ For we all know that English people are
     Fed upon beef—I won’t say much of beer,
 Because ’tis liquor only, and being far
     From this my subject, has no business here;
-We know, too, they very fond of war,
+We know, too, they are very fond of war,
     A pleasure—like all pleasures—rather dear;
 So were the Cretans—from which I infer
 That beef and battles both were owing to her.
@@ -18236,5 +18236,6 @@ The light that through the Gothic windows shone.
     Her Grace too had a sort of air rebuked,
 Seemed pale and shivered, as if she had kept
 A vigil or dreamt rather more than slept.
+
 
 
